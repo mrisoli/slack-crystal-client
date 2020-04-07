@@ -1,0 +1,9 @@
+workflows:
+  version: 2
+  build:
+    jobs:
+      - crystal/test
+
+orbs:
+  crystal: manastech/crystal@1.0
+version: 2.1
