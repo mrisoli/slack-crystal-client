@@ -1,6 +1,15 @@
 # slack-crystal-client
 
-TODO: Write a description here
+A Crystal client for the Slack Web, RealTime Messaging and Events APIs.
+TODO: Add links to APIs
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ## Installation
 
@@ -36,4 +45,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Marcelo Risoli](https://github.com/your-github-user) - creator and maintainer
+- [Marcelo Risoli](https://github.com/mrisoli) - creator and maintainer
